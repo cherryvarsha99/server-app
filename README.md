@@ -1,1 +1,2 @@
 # server-app
+I created server-app folder and created package.json in powershell along with app.js and  worked with index.js . installed node install express in powershell and node_modules got created . changed package .json  with app.js instead of index.js.  Once I am done with evrything i ran node app..js in terminal to check and the server was runned. then i committed the repo locally and tried to push but thers something problem with my git push and hence i committed through GitHub
